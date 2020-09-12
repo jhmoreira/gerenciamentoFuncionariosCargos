@@ -1,0 +1,25 @@
+{
+  "funcionario": [
+    {
+      "nome": "teste",
+      "sobrenome": "teste",
+      "cargo": "",
+      "ddtNascimento": "1900-01-01",
+      "salario": "10000",
+      "Cargo": "Desenvolvedor React Pleno",
+      "id": 1
+    }
+  ],
+  "cargos": [
+    {
+      "nome": "Desenvolvedor React Pleno",
+      "descricao": "Descrição teste sobre desenvolvedor react",
+      "id": 1
+    },
+    {
+      "nome": "Desenvolvedor React ",
+      "descricao": "Descrição teste sobre desenvolvedor react\t\n",
+      "id": 2
+    }
+  ]
+}
