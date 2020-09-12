@@ -24,6 +24,7 @@ Para inicializar: Ao abrir a pasta "frontend", navegue para "src" e então para 
 
 ```
 ### 🎲 Rodando o Front end 
+```bash
 Acesse a pasta do projeto no terminal/cmd
 $ frontend
 # Instale as dependências
@@ -31,4 +32,5 @@ $ npm install
 
 Para inicializar: Ao abrir a pasta "frontend", use o comando NPM START
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
 
