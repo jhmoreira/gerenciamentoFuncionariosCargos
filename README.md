@@ -25,7 +25,7 @@ Para inicializar: Ao abrir a pasta "frontend", navegue para "src" e então para 
 ```
 ### 🎲 Rodando o Front end 
 ```bash
-Acesse a pasta do projeto no terminal/cmd
+#Acesse a pasta do projeto no terminal/cmd
 $ frontend
 # Instale as dependências
 $ npm install
