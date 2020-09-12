@@ -19,7 +19,7 @@ $ frontend
 # Instale as dependências
 $ npm install
 
-Para inicializar: Ao abrir a pasta "frontend", navegue para "src" e então para "backend", use o comando NPM START
+Para inicializar: Ao abrir a pasta "frontend", navegue para "src" e então para "backend", use o comando npm start
 # O servidor inciará na porta:3001 - acesse <http://localhost:3001>
 
 ```
@@ -30,7 +30,7 @@ $ frontend
 # Instale as dependências
 $ npm install
 
-Para inicializar: Ao abrir a pasta "frontend", use o comando NPM START
+Para inicializar: Ao abrir a pasta "frontend", use o comando npm start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
